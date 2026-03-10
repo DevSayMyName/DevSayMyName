@@ -1,43 +1,49 @@
-<h1 align="center">DRN-DevAlex</h1>
+# <p align="center">Hola, soy Alex! 👋</p>
 
-<p align="left">
-¡Hola! Soy Alex, un apasionado programador especializado en el desarrollo back-end con un enfoque principal en PHP y MySQL. Mi objetivo es crear soluciones eficientes y escalables que impulsen el funcionamiento de las aplicaciones y sitios web.
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=El%20código%20es%20poesía%20escrita%20para%20máquinas%20que%20entienden%20a%20los%20humanos." alt="Quote" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DRN-DevAlex&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
+---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DRN-DevAlex&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2&custom_title=LENGUAJES" height="150" alt="languages graph"  />
+### 🚀 Sobre mí
+Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes y con una estética cuidada. Me enfoco en el aprendizaje continuo y en aportar valor a la comunidad dev.
 
-  <img src="https://streak-stats.demolab.com?user=DRN-DevAlex&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+- 💻 **Especialidad:** [Tu especialidad, ej: Fullstack / Backend / Mobile]
+- 🛠️ **Enfoque:** Código limpio, escalabilidad y buenas prácticas.
+- 🌍 **Ubicación:** [Tu país/ciudad]
+- ⚡ **Dato curioso:** [Algo sobre ti, ej: "Café dependiente" o "Fan de los teclados mecánicos"]
 
-  <img src="https://github-profile-trophy.vercel.app?username=DRN-DevAlex&theme=dracula&column=-1&row=2&margin-w=9&margin-h=7&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+---
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DRN-DevAlex&radius=16&theme=material-palenight&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+### 🛠️ Mi Stack Tecnológico
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,figma,docker" />
+  </a>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
-</div>
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DRN-DevAlex/count.svg?" />
-</div>
+### 📊 Mis Estadísticas de GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DRN-DevAlex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRN-DevAlex&layout=compact&langs_count=7&theme=tokyonight&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DRN-DevAlex&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Conectemos
+<p align="center">
+<a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tu-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
+</p>
