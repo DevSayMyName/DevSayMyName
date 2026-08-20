@@ -24,3 +24,5 @@
 [![](https://visitcount.itsvg.in/api?id=DRN-DevAlex&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/DRN-DevAlex/DRN-DevAlex/blob/output/github-snake-dark.svg)
