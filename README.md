@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 **Grado:** Técnico en Computación (Grado Universitario).<br>- 💼 **Actualidad:** Laborando en la **Universidad Doctor Andrés Bello (UNAB)**.<br>- 🎂 **Edad:** 23 años.<br>- 🚀 **Enfoque:** Desarrollo Web y Creación de Contenido Técnico.
+- 🎓 **Grado:** Universitario .<br>- 💼 **Actualidad:** Laborando en la **Universidad Doctor Andrés Bello (UNAB)**.<br>- 🎂 **Edad:** 23 años.<br>- 🚀 **Enfoque:** Desarrollo Web y Creación de Contenido Técnico.
   <img align='right' src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="230">
 
 
